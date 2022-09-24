@@ -1,0 +1,40 @@
+{
+	"storyName": "Hell",
+	"difficulties": "Master",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"songs": [
+		[
+			"Bombastic",
+			"katanabf",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"Bombastic Remix",
+			"katanabf",
+			[
+				0,
+				60,
+				160
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Bombastic"
+}

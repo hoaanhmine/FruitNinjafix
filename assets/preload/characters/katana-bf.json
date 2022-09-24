@@ -1,0 +1,230 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-19,
+				-30
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "bf idle"
+		},
+		{
+			"offsets": [
+				-24,
+				130
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "bf left miss"
+		},
+		{
+			"offsets": [
+				-15,
+				-39
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "bf down miss"
+		},
+		{
+			"offsets": [
+				-29,
+				49
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "bf up miss"
+		},
+		{
+			"offsets": [
+				-35,
+				16
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "bf right miss"
+		},
+		{
+			"offsets": [
+				-14,
+				-38
+			],
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "bf down"
+		},
+		{
+			"offsets": [
+				-33,
+				3
+			],
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "bf right"
+		},
+		{
+			"offsets": [
+				-24,
+				118
+			],
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "bf left"
+		},
+		{
+			"offsets": [
+				-30,
+				27
+			],
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			],
+			"fps": 22,
+			"anim": "singUP",
+			"loop": false,
+			"name": "bf up"
+		},
+		{
+			"offsets": [
+				30,
+				20
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT-slash",
+			"loop": false,
+			"name": "bf slice right"
+		},
+		{
+			"offsets": [
+				68,
+				-2
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN-slash",
+			"loop": false,
+			"name": "bf slice down"
+		},
+		{
+			"offsets": [
+				201,
+				1
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT-slash",
+			"loop": false,
+			"name": "bf slice left"
+		},
+		{
+			"offsets": [
+				110,
+				20
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP-slash",
+			"loop": false,
+			"name": "bf slice up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/katana-bf",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "katanabf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
